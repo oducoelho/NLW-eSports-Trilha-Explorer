@@ -1,9 +1,9 @@
 <h1>NLW eSports Trilha Explorer</h1>
 
+<img src="Explorer.PNG" />
+
 ## :memo: Descrição
 * Projeto construído do evento Next Level Week da Rocketseat.
-
-<img src="Explorer.PNG" />
 
 ## :wrench: Tecnologias utilizadas
 * HTML
