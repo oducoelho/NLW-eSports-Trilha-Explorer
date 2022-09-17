@@ -1,16 +1,15 @@
-<h1 align="center">NLW-eSports-Trilha-Explorer</h1>
+<h1>NLW eSports Trilha Explorer</h1>
 
 ## :memo: Descrição
-* NLW eSports da RocketSet
+* Projeto construído do evento Next Level Week da Rocketseat.
 
-## :books: Funcionalidades
-* 
 ## :wrench: Tecnologias utilizadas
 * HTML
 * CSS
+* GIT GitHub
 
 ## :rocket: Rodando o projeto
-Project link
+Project link : https://oducoelho.github.io/NLW-eSports-Trilha-Explorer/
 
 ## :handshake: Colaboradores
 <table>
