@@ -3,6 +3,8 @@
 ## :memo: Descrição
 * Projeto construído do evento Next Level Week da Rocketseat.
 
+<img src="Explorer.PNG" />
+
 ## :wrench: Tecnologias utilizadas
 * HTML
 * CSS
